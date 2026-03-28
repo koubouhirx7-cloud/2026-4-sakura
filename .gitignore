@@ -1,0 +1,4 @@
+# Ignore raw images to save space and prevent accidental upload of EXIF
+DSCF*.jpg
+DSCF*.JPG
+.DS_Store
